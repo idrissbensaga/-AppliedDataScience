@@ -7,4 +7,4 @@ Een belangrijk onderdeel van het project is de planning. Tijdens dit project heb
 
 -Sprintplanning, elke maandag kwamen we als project zijnde bijeen, om de planning voor komende week te maken
 
--Retrospective, elke vrijdag middag kwamen we bijeen. Het doel hiervan was om een terugblik te werpen op het functioneren van het scrum team de afgelopen week. Dit hebben we gedaan met behulp van [metroretro](metroretro.io) tool.
+-Retrospective, elke vrijdag middag kwamen we bijeen. Het doel hiervan was om een terugblik te werpen op het functioneren van het scrum team de afgelopen week. Dit hebben we gedaan met behulp van [metroretro](https://metroretro.io/) tool.
