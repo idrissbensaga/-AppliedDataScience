@@ -14,7 +14,7 @@ School: De haagse hogeschhol
 * Ruud Vermeij
 
 
-#inhoudsopgave:
+# inhoudsopgave:
 
 ## Datacamp courses:
 
