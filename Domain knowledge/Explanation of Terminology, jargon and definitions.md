@@ -1,6 +1,6 @@
 # Explanation of Terminology, jargon and definitions
 
-Tijdens dit project zijn er een aantal termen, jargons en definities gebruikt uit het data science vakgebied. Om de lezers te helpen bij het begrijpen van dit project heb ik de termen uitgelicht.
+Tijdens dit project zijn er een aantal termen, jargons en definities gebruikt uit het data science vakgebied. Om de lezers te helpen bij het begrijpen van dit project heb ik de termen uitgelicht. Hijrbij heb ik gebruik gemaakt een [website](https://pythoncursus.nl/machine-learning-begrippen-termen/)
 
 * Machine learning:
 
@@ -25,6 +25,20 @@ Een feature is een verzameling specifieke gegevens die je gebruikt om met een Ma
 *  Dataset:
 
 Een dataset is een verzameling gegevens. Een eenvoudig voorbeeld hiervan is een Excel spreadsheet. Hierin zijn gegevens verzameld in rijen en kolommen. Over het algemeen werk je met input data die voorspellende waarde heeft van hetgeen je wilt voorspellen, en met output data, hetgeen je wilt voorspellen.
- 
 
+* Regressie
+
+Regressie is een deelgebied van Supervised Learning waarbij je een numerieke waarde, een getal, voorspelt. Denk hierbij aan het voorbeeld dat je een huizenprijs wilt voorspellen.
+
+* Deep Learning
+
+Deep Learning is een toepassing van Neural Networks. De naam is ontstaan toen door meer beschikbare rekenkracht grotere netwerken getraind en gebruikt konden worden. Je gebruikt Deep Learning typisch voor beeld- en taal-gerelateerde toepassingen.
+ 
+*  Overfitting
+
+Overfitting gebeurt wanneer een model teveel informatie in overweging neemt. Het is alsof je iemand vraagt om een zin te lezen terwijl hij door een microscoop naar een pagina kijkt. De patronen die begrip mogelijk maken, gaan verloren in het lawaai.
+
+* Underfitting
+
+Underfitting gebeurt wanneer u een model niet voldoende informatie biedt. Een voorbeeld van underfitting is iemand vragen om de temperatuurverandering over een dag in kaart te brengen en hem alleen de hoogste en laagste waarden te geven. In plaats van de vloeiende curve die je zou verwachten, heb je alleen voldoende informatie om een rechte lijn te trekken.
 
