@@ -2,7 +2,9 @@
 
 
 Student Name: Idriss Bensaga
+
 Student Number: 18095003
+
 School: De haagse hogeschhol
 
 ## Minor begeleiders:
@@ -70,7 +72,7 @@ School: De haagse hogeschhol
 
 2. [Data Cleansing](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Data%20preprocessing/Data%20cleaning.md)
 
-3. [Data preparation](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Data%20preprocessing/Data%20preparation.md
+3. [Data preparation](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Data%20preprocessing/Data%20preparation.md)
 
 4. [Data Explenation](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Data%20preprocessing/Data%20explanation.md)
 
