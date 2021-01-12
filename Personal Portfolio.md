@@ -1,11 +1,11 @@
 # Minor Applied Data Science Personal Portfolio
 
 
-# Student Name: Idriss Bensaga
-# Student Number: 18095003
-# School: De haagse hogeschhol
+## Student Name: Idriss Bensaga
+## Student Number: 18095003
+## School: De haagse hogeschhol
 
-# Minor begeleiders:
+## Minor begeleiders:
 
 * Jeroen Vuurens
 * Tony Andrioli
