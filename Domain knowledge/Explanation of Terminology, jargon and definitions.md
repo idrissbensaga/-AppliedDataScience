@@ -3,21 +3,27 @@
 Tijdens dit project zijn er een aantal termen, jargons en definities gebruikt uit het data science vakgebied. Om de lezers te helpen bij het begrijpen van dit project heb ik de termen uitgelicht.
 
 * Machine learning:
+
 Machine Learning is de naam van het omvattende gebied van meerdere methoden waarbij een computer uitgerust wordt met ervaring door patronen te herkennen in bestaande data, om met deze ervaring voorspellingen te kunnen doen op nieuwe data. Je hebt voor Machine Learning altijd een dataset nodig.
 
-* Algoritme
+* Algoritme:
+
 Een algoritme is een rekenmethode. Dit kun je je voorstellen als een lijst coderegels die achtereenvolgens uitgevoerd worden. Er zijn verschillende Machine Learning algoritmes, die elk een eigen manier hebben om patronen in data vast te leggen.
 
-* Trainen
+* Trainen:
+
 Trainen is het toepassen van een algoritme op een dataset waarbij het algoritme patronen herkent en vastlegt. Veelal gebruik je een bepaald gedeelte van je dataset (bijvoorbeeld 80%) om het algoritme mee te trainen, dit wordt traindata genoemd. Het overige gedeelte (de overige 20%) gebruik je als ‘nieuwe’ data, om te zien hoe goed je voorspellingen kunt doen op data waarmee niet getraind is, dit wordt testdata genoemd.
 
-* Neural Networks
+* Neural Networks:
+
 Neural Networks is een deelgebied van Machine Learning, het staat voor neurale netwerken. De opbouw is gebaseerd op een versimpelde werken van het menselijke brein waarbij neurons (neuronen) met een functie inputs verwerken tot output. Hierbij zijn meerdere neurons in layers (lagen) met elkaar verbonden. Een Neural Network vormt hierdoor een complexe en variabele modelstructuur. Het is te gebruiken om zowel Supervised- als Unsupervised vraagstukken op te lossen.
 
-* Feature
+* Feature:
+
 Een feature is een verzameling specifieke gegevens die je gebruikt om met een Machine Learning model voorspellingen te doen. Dit is één van de input variabelen, ook wel de X-waarden genoemd. Denk hierbij bijvoorbeeld aan een tabel met eigenschappen van kleding. Een kolom met de kleur zou hier een feature kunnen zijn. De output waarden zijn het resultaat van de voorspelling worden ook wel de y-waarden genoemd.
 
-*  Dataset
+*  Dataset:
+
 Een dataset is een verzameling gegevens. Een eenvoudig voorbeeld hiervan is een Excel spreadsheet. Hierin zijn gegevens verzameld in rijen en kolommen. Over het algemeen werk je met input data die voorspellende waarde heeft van hetgeen je wilt voorspellen, en met output data, hetgeen je wilt voorspellen.
  
 
