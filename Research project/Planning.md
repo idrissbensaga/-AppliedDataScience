@@ -8,3 +8,8 @@ Een belangrijk onderdeel van het project is de planning. Tijdens dit project heb
 -Sprintplanning, elke maandag kwamen we als project zijnde bijeen, om de planning voor komende week te maken
 
 -Retrospective, elke vrijdag middag kwamen we bijeen. Het doel hiervan was om een terugblik te werpen op het functioneren van het scrum team de afgelopen week. Dit hebben we gedaan met behulp van [metroretro](https://metroretro.io/) tool.
+
+## Individuele Bijdrage
+
+Aan het begin van het project had ik nog geen ervaring met scrum. Hierdoor vond ik het de eerste weken een beetje moeilijk met de planning en werkwijze. Na een aantal weken raakte ik meer op mijn gemak met scrum en vond het heel erg handig. Elke zondag tot donderdag avond maakte ik een lijst met daarin de punten die ik de volgende ochtend tijdens de daily stand up wou bespreken met mijn projectgenoten.
+Tijdens week 7 12 en 16 heb ik een lijst gemaakt met daarin de punten die dezelfde week op de planning stonden, deze heb ik verwerkt in mijn presentaties.
