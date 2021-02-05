@@ -2,7 +2,7 @@
 
 Tijdens het project heb ik verschillende modellen geprobeerd toe te passen. Voor een goed voorspellend model moeten het aan een aantal aspecten voldoen. Hieronder ga ik de modellen die ik heb getest op de dataset verder uitlichten:
 
-* Multivariate Linear regression [(code)](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Python%20Notebooks/Klant%20165%20MVLR%20model%202.0%20(1).ipynb):
+* Multivariate Linear regression [(code)](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/Python%20Notebooks/Klant%20165%20MVLR%20model.ipynb):
 
 Bij het evalueren van mijn uitkomsten heb ik een root mean squared error en een r2 uitgevoerd. IK ben tevreden over de resulaten van deze testen, mijn root mean squared error had een uitkomst van 41.3 en mijn r2 score had een uitkomst van 0.4879 [bewijs](https://github.com/idrissbensaga/-AppliedDataScience/blob/main/screenshots/evaluatie%20model.PNG)
 
