@@ -2,13 +2,25 @@
 
 Tijdens dit project zijn er een aantal termen, jargons en definities gebruikt uit het data science vakgebied. Om de lezers te helpen bij het begrijpen van dit project heb ik de termen uitgelicht. Hijrbij heb ik gebruik gemaakt een [website](https://pythoncursus.nl/machine-learning-begrippen-termen/)
 
+## algemene:
+
+Dit zijn een aantal termen die algemeen zijn bij Data Science:
+
 * Machine learning:
 
 Machine Learning is de naam van het omvattende gebied van meerdere methoden waarbij een computer uitgerust wordt met ervaring door patronen te herkennen in bestaande data, om met deze ervaring voorspellingen te kunnen doen op nieuwe data. Je hebt voor Machine Learning altijd een dataset nodig.
 
+* Deep Learning
+
+Deep Learning is een toepassing van Neural Networks. De naam is ontstaan toen door meer beschikbare rekenkracht grotere netwerken getraind en gebruikt konden worden. Je gebruikt Deep Learning typisch voor beeld- en taal-gerelateerde toepassingen.
+
 * Algoritme:
 
 Een algoritme is een rekenmethode. Dit kun je je voorstellen als een lijst coderegels die achtereenvolgens uitgevoerd worden. Er zijn verschillende Machine Learning algoritmes, die elk een eigen manier hebben om patronen in data vast te leggen.
+
+## met betrekking tot het project:
+
+Dit zijn een aantal termen die ik ben tegengekomen tijdens het project:
 
 * Trainen:
 
@@ -30,9 +42,6 @@ Een dataset is een verzameling gegevens. Een eenvoudig voorbeeld hiervan is een 
 
 Regressie is een deelgebied van Supervised Learning waarbij je een numerieke waarde, een getal, voorspelt. Denk hierbij aan het voorbeeld dat je een huizenprijs wilt voorspellen.
 
-* Deep Learning
-
-Deep Learning is een toepassing van Neural Networks. De naam is ontstaan toen door meer beschikbare rekenkracht grotere netwerken getraind en gebruikt konden worden. Je gebruikt Deep Learning typisch voor beeld- en taal-gerelateerde toepassingen.
  
 *  Overfitting
 
